@@ -4,6 +4,11 @@ function Home() {
     <div className="row_2">
     <h1>Home</h1>
     <h1>Home3sffff</h1>
+    <h1>Home3sffff</h1>
+    <h1>Home3sffff</h1>
+    <h1>Home3sffff</h1>
+    <h1>Home3sffff</h1>
+    <h1>Home3sffff</h1>
     </div>
   );
 }
