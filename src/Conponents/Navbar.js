@@ -5,6 +5,15 @@ import { NavLink } from 'react-router-dom';
 function Navbar() {
   return (
     <div className="Navbar">
+              {/* <NavLink className="nav-link" to="/Massages">TotalMassages</NavLink>
+              <NavLink className="nav-link" to="/home">Home</NavLink>
+              <NavLink className="nav-link" to="/CallLogs">TotalCallLogs</NavLink>
+              <NavLink className="nav-link" to="/Contacts">TotalContacts</NavLink>
+              <NavLink className="nav-link" to="/Images">TotalImages</NavLink>
+              <NavLink className="nav-link" to="/Apps">TotalApps</NavLink>
+              <NavLink className="nav-link disable" >Battary</NavLink> */}
+
+
 
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <a className="navbar-brand" href="#">Spy App</a>
@@ -48,10 +57,7 @@ function Navbar() {
             </li>
 
           </ul>
-          <form className="form-inline my-2 my-lg-0">
-            <input className="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
-            <button className="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-          </form>
+          
         </div>
       </nav>
 
