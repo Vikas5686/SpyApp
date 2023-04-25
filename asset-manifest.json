@@ -1,12 +1,15 @@
 {
   "files": {
+    "main.css": "/SpyApp/static/css/main.e0a3d0fc.css",
     "main.js": "/SpyApp/static/js/main.058961fc.js",
     "static/js/787.28cb0dcd.chunk.js": "/SpyApp/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/SpyApp/index.html",
+    "main.e0a3d0fc.css.map": "/SpyApp/static/css/main.e0a3d0fc.css.map",
     "main.058961fc.js.map": "/SpyApp/static/js/main.058961fc.js.map",
     "787.28cb0dcd.chunk.js.map": "/SpyApp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
+    "static/css/main.e0a3d0fc.css",
     "static/js/main.058961fc.js"
   ]
 }
