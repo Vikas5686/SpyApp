@@ -7,6 +7,7 @@ import TotalApp from './Conponents/TotalApp'
 import Battery from './Conponents/Battery'
 import Images from './Conponents/Images'
 import Home from './Conponents/Home'
+import  './App.css'
 
 function App() {
   return (
