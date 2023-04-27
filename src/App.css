@@ -3,6 +3,10 @@
 font-family: 'PT Serif', serif;
 font-size: 18px;
 
+
+}
+.Center{
+  justify-content: center;
 }
 body{
 
@@ -10,3 +14,13 @@ body{
 overflow-x: hidden;
   background-color: black;
 }
+.card{
+  color: black !important;
+}
+.Home h1{
+color: aqua;
+}
+.Home h3{
+color: white;
+}
+
